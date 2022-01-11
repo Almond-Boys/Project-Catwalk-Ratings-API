@@ -1,0 +1,28 @@
+{
+  "name": "project-catwalk-ratings-api",
+  "version": "1.0.0",
+  "description": "HR SDC Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Almond-Boys/Project-Catwalk-Ratings-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Almond-Boys/Project-Catwalk-Ratings-API/issues"
+  },
+  "homepage": "https://github.com/Almond-Boys/Project-Catwalk-Ratings-API#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
