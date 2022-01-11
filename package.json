@@ -4,7 +4,9 @@
   "description": "HR SDC Project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "run start-prod": "node server/index.js",
+    "run start-dev": "nodemon server/index.js"
   },
   "repository": {
     "type": "git",
@@ -17,10 +19,10 @@
   },
   "homepage": "https://github.com/Almond-Boys/Project-Catwalk-Ratings-API#readme",
   "dependencies": {
-    "express": "^4.17.2",
-    "nodemon": "^2.0.15"
+    "express": "^4.17.2"
   },
   "devDependencies": {
+    "nodemon": "^2.0.15",
     "eslint": "^8.6.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4"
