@@ -44,3 +44,8 @@ const reviewsSchema = mongoose.Schema({
     },
   }],
 });
+
+const productSchema = mongoose.Schema({
+  product_id: Number,
+  reviews: [reviewsSchema],
+});
