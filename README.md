@@ -10,12 +10,47 @@ mongoimport --db [dbName] --type=csv --headerline --file [filepath]
 
 --headerline will take the first row as names.
 
-Aggregation pipeline:
+Aggregation pipeline queries:
 
-$match - filter the documents to pass only the documents that match a specified condition
-$lookup - creates a left join between two databases
+Joining Photos into reviews:
 
-In order to join characteristics_reviews_samples which contains values and characteristics which contains names, I'm going to use below code to perform a left join between the two collections.
+db.reviews_sample.aggregate([
+  {
+    $lookup: {
+      from: 'reviews_photos_sample',
+      localField: 'id',
+      foreignField: 'review_id',
+      as: 'photos'
+    }
+  },
+  {
+    $addFields: {
+      "photos": "$photos"
+    }
+  },
+  {
+    $project: {
+      id: 1,
+      product_id: 1,
+      rating: 1,
+      date: 1,
+      summary: 1,
+      body: 1,
+      recommend: 1,
+      reported: 1,
+      reviewer_name: 1,
+      reviewer_email: 1,
+      response: 1,
+      helpfulness: 1,
+      photos: 1,
+    }
+  },
+   {
+    $out: "reviews_sample"
+  }
+])
+
+Joining characteristic_reviews and characteristics:
 
 db.characteristic_reviews_sample.aggregate([
   {
@@ -48,8 +83,3 @@ db.characteristic_reviews_sample.aggregate([
     $out: "characteristic_reviews_sample"
   }
 ])
-
-
-db.reviews_photos_sample.aggregate([{$group: {review_id}}, {$out: { db: reviews, coll: reviews_sample}}])
-
-$merge or $out - last stage of aggregation, can output aggregation results into an existing collection in db
