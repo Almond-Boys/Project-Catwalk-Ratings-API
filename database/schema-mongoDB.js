@@ -2,22 +2,46 @@ const mongoose = require('mongoose');
 
 const reviewsSchema = mongoose.Schema({
   _id: Number,
-  rating: Number,
+  rating: {
+    type: Number,
+    min: [1, 'Invalid Input'],
+    max: [5, 'Invalid Input'],
+  },
   date: Date,
-  summary: String,
-  body: String,
+  summary: {
+    type: String,
+    minLength: 0,
+    maxLength: 60,
+  },
+  body: {
+    type: String,
+    minLength: 50,
+    maxLength: 1000,
+  },
   recommend: Boolean,
   reported: Boolean,
-  reviewer_name: String,
-  reviewer_email: String,
-  response: String,
+  reviewer_name: {
+    type: String,
+    minLength: 0,
+    maxLength: 50,
+  },
+  reviewer_email: {
+    type: String,
+    minLength: 0,
+    maxLength: 50,
+  },
+  response: {
+    type: String,
+    minLength: 50,
+    maxLength: 1000,
+  },
   helpfulness: Number,
   photos: [{
     id: Number,
     url: String,
   }],
   ratings: Number,
-  characteristics: [{
+  characteristics: {
     Size: {
       id: Number,
       value: Number,
@@ -42,10 +66,14 @@ const reviewsSchema = mongoose.Schema({
       id: Number,
       value: Number,
     },
-  }],
+  },
 });
 
 const productSchema = mongoose.Schema({
   product_id: Number,
   reviews: [reviewsSchema],
 });
+
+module.exports = {
+  productSchema,
+};

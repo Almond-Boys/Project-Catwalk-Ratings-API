@@ -2,13 +2,13 @@ DROP DATABASE IF EXISTS reviewsAPI;
 
 CREATE DATABASE reviewsAPI;
 
-USE reviewsAPI;
+\c reviewsAPI;
 
 CREATE TABLE reviews (
   id BIGSERIAL NOT NULL UNIQUE AUTO_INCREMENT,
   product_id INTEGER,
   rating INTEGER CONSTRAINT valid_rating CHECK (rating > 0 AND rating < 6),
-  date date,
+  review_date date,
   summary VARCHAR(60),
   body VARCHAR(1000),
   recommend BOOLEAN,
@@ -22,7 +22,7 @@ CREATE TABLE reviews (
 CREATE TABLE photos (
   id BIGSERIAL NOT NULL UNIQUE,
   review_id INTEGER,
-  url VARCHAR
+  photo_url VARCHAR(255)
 );
 
 CREATE TABLE characteristics (
