@@ -2,7 +2,7 @@ const models = require('../models/models');
 
 module.exports = {
   getReviews: (req, res) => {
-    models.getReviews((err, results) => {
+    models.getReviews(req.query, (err, results) => {
       if (err) {
         res.send(err);
       } else {

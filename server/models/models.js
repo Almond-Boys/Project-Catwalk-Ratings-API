@@ -1,8 +1,9 @@
 const database = require('../../database/database');
 
 module.exports = {
-  getReviews: (callback) => {
-    database.reviews.findOne({ id: 4 }, (err, results) => {
+  getReviews: (params, callback) => {
+    const productID = parseInt(params.product_id, 10);
+    database.reviews.findOne({ product_id: productID }, (err, results) => {
       if (err) throw err;
       callback(results);
     });
