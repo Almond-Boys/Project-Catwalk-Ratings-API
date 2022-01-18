@@ -21,8 +21,10 @@ connect()
 
 const db = client.db(dbName);
 const reviews = db.collection('reviews');
+const counters = db.collection('counters');
 
 module.exports = {
   reviews,
   db,
+  counters,
 };

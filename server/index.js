@@ -5,6 +5,7 @@ const reviews = require('./routes/reviews');
 const app = express();
 const PORT = 3030;
 
+app.use(express.json());
 app.use('/reviews', reviews);
 
 // eslint-disable-next-line no-console
