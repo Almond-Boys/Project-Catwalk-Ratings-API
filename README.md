@@ -11,7 +11,8 @@ mongoimport --db [dbName] --type=csv --headerline --file [filepath]
 
 Aggregation pipeline queries:
 - Joining Photos into reviews:
-
+  - Create index on the foreignField first, or aggregation will run forever:
+db.reviews_photos.createIndex({review_id: 1})
 db.reviews.aggregate([
   {
     $lookup: {
@@ -49,7 +50,9 @@ db.reviews.aggregate([
 ])
 
 - Joining characteristic_reviews and characteristics:
+  - Create index on the foreignField first, or aggregation will run forever:
 
+db.characteristics.createIndex({id: 1})
 db.characteristic_reviews.aggregate([
   {
     $lookup: {
@@ -81,7 +84,8 @@ db.characteristic_reviews.aggregate([
 ])
 
 - Join characteristics_reviews into reviews
-
+  - Create index on the foreignField first, or aggregation will run forever:
+db.characteristic_reviews.createIndex({review_id: 1})
 db.reviews.aggregate([
   {
     $lookup: {
@@ -119,20 +123,3 @@ db.reviews.aggregate([
   }
 ])
 
-Group reviews by product_id:
-
-db.reviews.aggregate([
-  {
-    $unwind:"$product_id"
-  },
-  {
-    $group: {
-      _id: "$product_id",
-            product_id: {$max: "$product_id"},
-      reviews:{$push: "$_id"}
-    }
-  },
-  {
-    $out: "reviews"
-  }
-])
