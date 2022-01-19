@@ -1,5 +1,5 @@
-// eslint-disable-next-line no-unused-vars
-const newrelic = require('newrelic');
+require('newrelic');
+
 const express = require('express');
 
 const reviews = require('./routes/reviews');
