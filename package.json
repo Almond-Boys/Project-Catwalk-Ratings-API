@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "start-prod": "node server/index.js",
-    "start-dev": "nodemon server/index.js"
+    "start-prod": "node -r newrelic server/index.js",
+    "start-dev": "nodemon -r newrelic server/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,8 @@
   "homepage": "https://github.com/Almond-Boys/Project-Catwalk-Ratings-API#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "mongodb": "^4.3.0"
+    "mongodb": "^4.3.0",
+    "newrelic": "^8.7.1"
   },
   "devDependencies": {
     "eslint": "^8.6.0",
