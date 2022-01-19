@@ -1,3 +1,6 @@
+/* eslint-disable arrow-parens */
+/* eslint-disable no-unused-vars */
+/* eslint-disable import/no-unresolved */
 import http from 'k6/http';
 import { sleep, check } from 'k6';
 
@@ -6,10 +9,14 @@ export const options = {
   duration: '15s',
 };
 
-const url = 'http://localhost:3030/reviews/meta/';
+const randomID = Math.floor(Math.random() * 5000000);
+
+// url routes for stress testing
+const urlMeta = `http://localhost:3030/reviews/meta/?product_id=${randomID}`;
+const urlReview = `http://localhost:3030/reviews/?product_id=${randomID}`;
 
 export default () => {
-  const res = http.get(url);
+  const res = http.get(urlReview);
   sleep(1);
   check(res, {
     'is status 200': r => r.status === 200,

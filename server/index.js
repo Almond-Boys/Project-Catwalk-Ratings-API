@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 const newrelic = require('newrelic');
 const express = require('express');
 
