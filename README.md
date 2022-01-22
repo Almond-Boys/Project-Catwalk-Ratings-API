@@ -83,10 +83,6 @@ db.characteristic_reviews.aggregate([
   }
 ])
 
-Create index for reviews collections:
-db.reviews.createIndex({id: 1})
-db.reviews.createIndex({product_id: 1})
-
 - Join characteristics_reviews into reviews
   - Create index on the foreignField first, or aggregation will run forever:
 db.characteristic_reviews.createIndex({review_id: 1})
@@ -127,6 +123,9 @@ db.reviews.aggregate([
   }
 ])
 
+Create index for reviews collections:
+db.reviews.createIndex({id: 1})
+db.reviews.createIndex({product_id: 1})
 
 Creating counters collection with document for auto-incrementing review_id
 db.createCollection('counters')

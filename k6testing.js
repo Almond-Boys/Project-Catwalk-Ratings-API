@@ -6,7 +6,7 @@ import { sleep, check } from 'k6';
 
 export const options = {
   vus: 100,
-  duration: '15s',
+  duration: '60s',
 };
 
 const randomID = Math.floor(Math.random() * 5000000);
@@ -16,7 +16,7 @@ const urlMeta = `http://localhost:3030/reviews/meta/?product_id=${randomID}`;
 const urlReview = `http://localhost:3030/reviews/?product_id=${randomID}`;
 
 export default () => {
-  const res = http.get(urlReview);
+  const res = http.get(urlMeta);
   sleep(1);
   check(res, {
     'is status 200': r => r.status === 200,

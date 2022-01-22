@@ -11,18 +11,27 @@ const getNextReviewId = async (counter) => {
 };
 
 module.exports = {
-  getReviews: (inputProductID, callback) => {
-    const productID = parseInt(inputProductID.product_id, 10);
-    database.reviews.find({ product_id: productID }).toArray((err, results) => {
-      if (err) throw err;
-      const data = {
-        product: productID,
-        page: 0,
-        count: results.length,
-        results,
-      };
-      callback(data);
-    });
+  getReviews: (requestBody, callback) => {
+    const productID = parseInt(requestBody.product_id, 10);
+    let sort = 'rating';
+    if (requestBody.sort === 'newest') {
+      sort = 'date';
+    }
+    if (requestBody.sort === 'helpful') {
+      sort = 'helpfulness';
+    }
+    database.reviews.find({ product_id: productID })
+      .sort({ [sort]: -1 })
+      .toArray((err, results) => {
+        if (err) throw err;
+        const data = {
+          product: productID,
+          page: 0,
+          count: results.length,
+          results,
+        };
+        callback(data);
+      });
   },
   getMeta: (inputProductID, callback) => {
     const productID = parseInt(inputProductID.product_id, 10);

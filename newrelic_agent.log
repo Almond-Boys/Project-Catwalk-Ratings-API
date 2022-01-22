@@ -340,3 +340,507 @@
 {"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89485,"time":"2022-01-19T20:09:33.904Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
 {"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89485,"time":"2022-01-19T20:09:33.907Z","msg":"Agent state changed from connected to started."}
 {"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89485,"time":"2022-01-19T20:09:34.909Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:22.617Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:22.699Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:22.746Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:22.857Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:22.857Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:25.205Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:25.206Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BRbc75-hzg8MADPOVjzSOkJh6HDMAAgBAAAnIQEAAV4zAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:25.206Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:25.208Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:25.214Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89651,"time":"2022-01-19T20:11:26.216Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:23.878Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:23.981Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:24.029Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:24.137Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:24.137Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:26.641Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:26.641Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BbVN-iecf8TxADPOVjzSOkJh6HEIAAgBAAAnIQEAAV5fAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:26.641Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:26.643Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:26.647Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89695,"time":"2022-01-19T20:12:27.648Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:52.038Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:52.132Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:52.177Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:52.303Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:52.303Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:54.058Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:54.059Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BYxR5nnhsnRxADPOVjzSOkJh6HEIAAgBAAAnIQEAAV6NAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:54.059Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:54.062Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:54.068Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89741,"time":"2022-01-19T20:12:55.070Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:17.936Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:18.009Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:18.048Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:18.152Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:18.152Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:20.065Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:20.065Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BdgxfUiQJoWfADPOVjzSOkJh6HFEAAgBAAAnIQEAAV6lAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:20.065Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:20.066Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:20.069Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89765,"time":"2022-01-19T20:13:21.071Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:10.875Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:10.961Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:11.005Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:11.119Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:11.119Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:13.283Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:13.284Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BbbH8buGqE_6ADPOVjzSOkJh6HKsAAgBAAAnIQEAAV8NAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:13.284Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:13.286Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:13.289Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":89869,"time":"2022-01-19T20:19:14.289Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:51.075Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:51.182Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:51.237Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:51.385Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:51.385Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:52.987Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:52.988Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BVxJpOm7H9ELADPOVjzSOkJh6JbEAAgBAAAnIQEAAWWWAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:52.989Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:52.990Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:52.993Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":91542,"time":"2022-01-19T22:53:53.994Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99882,"time":"2022-01-20T19:32:43.966Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99882,"time":"2022-01-20T19:32:44.101Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99882,"time":"2022-01-20T19:32:44.177Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99882,"time":"2022-01-20T19:32:44.308Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99882,"time":"2022-01-20T19:32:44.308Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99882,"time":"2022-01-20T19:32:46.316Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99882,"time":"2022-01-20T19:32:46.316Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID Bd_8rEy1MzAwADPOVjzSOkJh6bkoAAgBAAAnIQEAAYYqAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99882,"time":"2022-01-20T19:32:46.316Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99882,"time":"2022-01-20T19:32:46.317Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99882,"time":"2022-01-20T19:32:46.319Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:52.666Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:52.722Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:52.749Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:52.835Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:52.835Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:54.549Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:54.549Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BWeXfSf0lkPCADPOVjzSOkJh6bkoAAgBAAAnIQEAAYZOAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:54.549Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:54.550Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:54.552Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99918,"time":"2022-01-20T19:32:55.554Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:32:57.849Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:32:57.901Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:32:57.928Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:32:58.004Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:32:58.005Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:32:59.706Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:32:59.706Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BZAy3b3v7shuADPOVjzSOkJh6bkoAAgBAAAnIQEAAYZhAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:32:59.706Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:32:59.707Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:32:59.709Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99937,"time":"2022-01-20T19:33:00.711Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:19.939Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:20.006Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:20.043Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:20.139Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:20.139Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:21.901Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:21.901Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BSo6c5qePX9lADPOVjzSOkJh6blkAAgBAAAnIQEAAYZ4AgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:21.902Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:21.902Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:21.904Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99960,"time":"2022-01-20T19:33:22.906Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:31.877Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:31.934Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:32.006Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:32.106Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:32.106Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:33.837Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:33.837Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID Bdy6oOS2rkygADPOVjzSOkJh6blkAAgBAAAnIQEAAYadAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:33.837Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:33.838Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:33.840Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":99997,"time":"2022-01-20T19:33:34.841Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:35.083Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:35.135Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:35.162Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:35.240Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:35.240Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:36.154Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:36.154Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID Bfp528zNVBEMADPOVjzSOkJh6blkAAgBAAAnIQEAAABzAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:36.155Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:36.157Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:36.159Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":115,"time":"2022-01-20T19:33:37.162Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:40.731Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:40.785Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:40.812Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:40.894Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:40.894Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:41.837Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:41.837Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BWLTi4Gwg4zzADPOVjzSOkJh6blkAAgBAAAnIQEAAACOAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:41.837Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:41.838Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:41.840Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":142,"time":"2022-01-20T19:33:42.841Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":168,"time":"2022-01-20T19:33:43.536Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":168,"time":"2022-01-20T19:33:43.591Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":168,"time":"2022-01-20T19:33:43.618Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":168,"time":"2022-01-20T19:33:43.696Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":168,"time":"2022-01-20T19:33:43.696Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":168,"time":"2022-01-20T19:33:44.555Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":168,"time":"2022-01-20T19:33:44.555Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID Bc_2W6CDWytuADPOVjzSOkJh6blkAAgBAAAnIQEAAACoAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":168,"time":"2022-01-20T19:33:44.555Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":168,"time":"2022-01-20T19:33:44.556Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":168,"time":"2022-01-20T19:33:44.558Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:45.525Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:45.577Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:45.604Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:45.679Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:45.679Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:47.395Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:47.395Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BTZzSFzHfyC9ADPOVjzSOkJh6blkAAgBAAAnIQEAAAC4AgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:47.395Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:47.396Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:47.398Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":184,"time":"2022-01-20T19:33:48.400Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":204,"time":"2022-01-20T19:33:48.735Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":204,"time":"2022-01-20T19:33:48.790Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":204,"time":"2022-01-20T19:33:48.818Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":204,"time":"2022-01-20T19:33:48.895Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":204,"time":"2022-01-20T19:33:48.895Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":204,"time":"2022-01-20T19:33:49.786Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":204,"time":"2022-01-20T19:33:49.786Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID Bcv8bM2tgagtADPOVjzSOkJh6blkAAgBAAAnIQEAAADMAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":204,"time":"2022-01-20T19:33:49.786Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":204,"time":"2022-01-20T19:33:49.789Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":204,"time":"2022-01-20T19:33:49.791Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:50.405Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:50.459Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:50.487Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:50.566Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:50.566Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:51.480Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:51.480Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BYq2Z5TaTEf8ADPOVjzSOkJh6blkAAgBAAAnIQEAAADYAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:51.480Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:51.481Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:51.483Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":216,"time":"2022-01-20T19:33:52.484Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":243,"time":"2022-01-20T19:33:56.145Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":243,"time":"2022-01-20T19:33:56.200Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":243,"time":"2022-01-20T19:33:56.227Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":243,"time":"2022-01-20T19:33:56.304Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":243,"time":"2022-01-20T19:33:56.305Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":255,"time":"2022-01-20T19:33:57.210Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":255,"time":"2022-01-20T19:33:57.264Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":255,"time":"2022-01-20T19:33:57.290Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":255,"time":"2022-01-20T19:33:57.366Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":255,"time":"2022-01-20T19:33:57.366Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":273,"time":"2022-01-20T19:33:58.740Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":273,"time":"2022-01-20T19:33:58.796Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":273,"time":"2022-01-20T19:33:58.823Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":273,"time":"2022-01-20T19:33:58.906Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":273,"time":"2022-01-20T19:33:58.906Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:00.396Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:00.450Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:00.478Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:00.552Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:00.552Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:02.309Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:02.309Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BYMZvuT1sPuUADPOVjzSOkJh6bmgAAgBAAAnIQEAAAEdAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:02.310Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:02.312Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:02.314Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":285,"time":"2022-01-20T19:34:03.315Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":315,"time":"2022-01-20T19:34:08.193Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":315,"time":"2022-01-20T19:34:08.246Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":315,"time":"2022-01-20T19:34:08.272Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":315,"time":"2022-01-20T19:34:08.348Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":315,"time":"2022-01-20T19:34:08.348Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:09.704Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:09.756Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:09.783Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:09.859Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:09.859Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:10.733Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:10.733Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BRsP9XD6GYwiADPOVjzSOkJh6bmgAAgBAAAnIQEAAAFGAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:10.733Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:10.736Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:10.738Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":326,"time":"2022-01-20T19:34:11.740Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:13.647Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:13.699Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:13.726Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:13.803Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:13.804Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:14.645Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:14.645Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BXNIiBKSn2I1ADPOVjzSOkJh6bmgAAgBAAAnIQEAAAFbAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:14.645Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:14.648Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:14.650Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":347,"time":"2022-01-20T19:34:15.650Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:25.901Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:25.981Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:26.029Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:26.135Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:26.136Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:27.004Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:27.004Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BYidWw7PjOxxADPOVjzSOkJh6bmgAAgBAAAnIQEAAAF-AgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:27.004Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:27.005Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:27.007Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":382,"time":"2022-01-20T19:34:28.008Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:28.851Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:28.905Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:28.934Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:29.009Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:29.009Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:30.712Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:30.712Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BbBSsLqrQwivADPOVjzSOkJh6bmgAAgBAAAnIQEAAAGrAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:30.713Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:30.715Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:30.718Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":427,"time":"2022-01-20T19:34:31.718Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":459,"time":"2022-01-20T19:34:40.430Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":459,"time":"2022-01-20T19:34:40.518Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":459,"time":"2022-01-20T19:34:40.560Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":459,"time":"2022-01-20T19:34:40.685Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":459,"time":"2022-01-20T19:34:40.685Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:45.258Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:45.311Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:45.337Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:45.422Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:45.422Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:47.169Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:47.169Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BSzFtDz4bDsAADPOVjzSOkJh6bmgAAgBAAAnIQEAAAHkAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:47.169Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:47.170Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:47.172Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":484,"time":"2022-01-20T19:34:48.174Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:52.893Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:52.945Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:52.972Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:53.048Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:53.048Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:54.882Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:54.882Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BfR2nejL2s4dADPOVjzSOkJh6bmgAAgBAAAnIQEAAAIHAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:54.882Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:54.883Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:54.885Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":519,"time":"2022-01-20T19:34:55.887Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:56.676Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:56.729Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:56.757Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:56.838Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:56.838Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:58.574Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:58.574Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BXMgpTTcxlspADPOVjzSOkJh6bmgAAgBAAAnIQEAAAIhAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:58.574Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:58.575Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:58.577Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":545,"time":"2022-01-20T19:34:59.578Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:01.223Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:01.276Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:01.306Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:01.381Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:01.381Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:02.324Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:02.325Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BQk1N0K_BvNaADPOVjzSOkJh6bncAAgBAAAnIQEAAAIwAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:02.325Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:02.327Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:02.330Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":560,"time":"2022-01-20T19:35:03.332Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:16.553Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:16.631Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:16.674Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:16.783Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:16.783Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:17.749Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:17.749Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BXl_HwW4FhJKADPOVjzSOkJh6bncAAgBAAAnIQEAAAJQAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:17.749Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:17.750Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:17.752Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":592,"time":"2022-01-20T19:35:18.755Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:30.188Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:30.258Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:30.299Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:30.396Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:30.396Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:32.116Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:32.117Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID Berk4dL2gW_WADPOVjzSOkJh6bncAAgBAAAnIQEAAAJrAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:32.117Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:32.119Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:32.122Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":619,"time":"2022-01-20T19:35:33.125Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":640,"time":"2022-01-20T19:35:33.815Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":640,"time":"2022-01-20T19:35:33.868Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":640,"time":"2022-01-20T19:35:33.895Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":640,"time":"2022-01-20T19:35:33.972Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":640,"time":"2022-01-20T19:35:33.972Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":640,"time":"2022-01-20T19:35:35.677Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":640,"time":"2022-01-20T19:35:35.678Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BYmfuZD9PUP3ADPOVjzSOkJh6bncAAgBAAAnIQEAAAKAAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":640,"time":"2022-01-20T19:35:35.678Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":640,"time":"2022-01-20T19:35:35.680Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":640,"time":"2022-01-20T19:35:35.683Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:03.696Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:03.776Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:03.825Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:03.935Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:03.935Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:06.389Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:06.390Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BXTi4kj07GgIADPOVjzSOkJh6boYAAgBAAAnIQEAAALbAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:06.390Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:06.392Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:06.395Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":731,"time":"2022-01-20T19:36:07.396Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:21.978Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:22.033Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:22.062Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:22.145Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:22.145Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:23.818Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:23.818Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BfA17Su2f_oNADPOVjzSOkJh6boYAAgBAAAnIQEAAAMEAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:23.818Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:23.819Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:23.821Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":772,"time":"2022-01-20T19:36:24.822Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:10.890Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:10.972Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:11.015Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:11.126Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:11.126Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:13.538Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:13.539Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BWfD8jOd3HfLADPOVjzSOkJh6bqQAAgBAAAnIQEAAAMdAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:13.539Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:13.544Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:13.554Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":797,"time":"2022-01-20T19:38:14.555Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":820,"time":"2022-01-20T19:38:27.833Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":820,"time":"2022-01-20T19:38:27.905Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":820,"time":"2022-01-20T19:38:27.948Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":820,"time":"2022-01-20T19:38:28.050Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":820,"time":"2022-01-20T19:38:28.050Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":820,"time":"2022-01-20T19:38:29.238Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":820,"time":"2022-01-20T19:38:29.238Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BWNVjlef1_mjADPOVjzSOkJh6bqQAAgBAAAnIQEAAAM0AgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":820,"time":"2022-01-20T19:38:29.238Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":820,"time":"2022-01-20T19:38:29.239Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":820,"time":"2022-01-20T19:38:29.241Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:29.494Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:29.549Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:29.576Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:29.654Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:29.654Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:30.507Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:30.507Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BUV-xiaFKPvYADPOVjzSOkJh6bqQAAgBAAAnIQEAAANLAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:30.507Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:30.508Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:30.510Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":843,"time":"2022-01-20T19:38:31.512Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:32.453Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:32.514Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:32.542Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:32.618Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:32.618Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:33.496Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:33.496Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BXZG4jzcs_ktADPOVjzSOkJh6bqQAAgBAAAnIQEAAANeAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:33.496Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:33.497Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:33.499Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":862,"time":"2022-01-20T19:38:34.501Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:38.384Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:38.438Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:38.465Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:38.542Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:38.543Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:39.440Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:39.440Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BWamOcWerb4KADPOVjzSOkJh6bqQAAgBAAAnIQEAAAN3AgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:39.440Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:39.441Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:39.443Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":887,"time":"2022-01-20T19:38:40.444Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:42.285Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:42.340Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:42.366Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:42.444Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:42.444Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:43.331Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:43.331Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BRTfC73C1FIHADPOVjzSOkJh6bqQAAgBAAAnIQEAAAOMAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:43.331Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:43.334Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:43.336Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":908,"time":"2022-01-20T19:38:44.337Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:32.779Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:32.859Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:32.901Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:33.013Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:33.013Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:34.914Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:34.914Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BbDyX2nE4fZfADPOVjzSOkJh6brMAAgBAAAnIQEAAAOsAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:34.914Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:34.916Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:34.921Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":940,"time":"2022-01-20T19:39:35.922Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:05.842Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:05.917Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:05.960Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:06.060Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:06.060Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:07.821Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:07.822Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BTO51of7uSSfADPOVjzSOkJh6bsIAAgBAAAnIQEAAAO_AgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:07.822Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:07.824Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:07.826Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":959,"time":"2022-01-20T19:40:08.828Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:03.105Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:03.183Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:03.226Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:03.336Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:03.336Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:05.291Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:05.291Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BfsDySSgTZeqADPOVjzSOkJh6btEAAgBAAAnIQEAAAPkAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:05.291Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:05.295Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:05.303Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":996,"time":"2022-01-20T19:41:06.305Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:44.040Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:44.120Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:44.164Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:44.272Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:44.272Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:46.040Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:46.040Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BY1JB8mkxy3JADPOVjzSOkJh6btEAAgBAAAnIQEAAAP8AgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:46.041Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:46.042Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:46.050Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":1020,"time":"2022-01-20T19:41:47.051Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:20.697Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:20.808Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:20.883Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:20.992Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:20.992Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:23.409Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:23.410Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BeE403ibcFO8ADPOVjzSOkJh63RcAAgBAAAnIQEAAEChAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:23.410Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:23.413Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:23.416Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16545,"time":"2022-01-22T03:03:24.417Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:47.908Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:47.986Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:48.037Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:48.148Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:48.148Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:50.476Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:50.476Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID Bc2uQdbhqfkaADPOVjzSOkJh63TUAAgBAAAnIQEAAEHGAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:50.476Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:50.478Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:50.482Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16838,"time":"2022-01-22T03:05:51.484Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:15.011Z","msg":"Using New Relic for Node.js. Agent version: 8.7.1; Node version: v14.18.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:15.091Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:15.139Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:15.250Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:15.250Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:17.590Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:17.590Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID Bddk7hyVT84RADPOVjzSOkJh63WIAAgBAAAnIQEAAEHzAgQ80j5MAwAFOC43LjEAD2p1c3RpbnMtYWlyLmxhbgAHUmV2aWV3cw.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:17.590Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3395158/applications/1020411468","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:17.593Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:17.596Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"justins-air.lan","pid":16883,"time":"2022-01-22T03:08:18.597Z","msg":"Starting initial 1000ms harvest."}
