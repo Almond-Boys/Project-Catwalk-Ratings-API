@@ -2,7 +2,7 @@ const { MongoClient } = require('mongodb');
 
 const publicDBUrl = 'mongodb://54.215.135.52:27017';
 const privateDBUrl = 'mongodb://172.31.5.105:27017';
-const client = new MongoClient(privateDBUrl);
+const client = new MongoClient(publicDBUrl);
 
 const dbName = 'reviews';
 
